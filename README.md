@@ -26,4 +26,4 @@ Functional and usability testing was performed on the following features:
 
 ## 👤 Author
 
-Created as part of hands-on testing exercise by an ISTQB Foundation certified tester.
+Created as part of hands-on testing exercise by Ali Tabatabaeei, an ISTQB Foundation certified tester.
